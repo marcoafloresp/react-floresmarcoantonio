@@ -1,0 +1,91 @@
+[
+
+    {
+        "id": "9",
+        "category": "pillow",
+        "name": "Almohadon Everyone...",
+        "image": "/img/almoeveryone.jpeg",
+        "title": "Everyone is welcome here..",
+        "size": "60 x 60 cm.",
+        "precio": "$ 1300",
+        "resena":"Almohadones rellenos de Vellon siliconado. Costura de alta calidad, pensado para darle uso intensivo. El producto posee la misma tela de ambos lados con cierre especial para evitar roces o molestias en los bordes",
+        "stock": "12"
+    },
+    {
+        "id":"10",
+        "category": "pillow",
+        "name": "Almohadon Flowers",
+        "image": "/img/almoflowers.jpeg",
+        "title": "Flowers - single",
+        "size": "40 x 70 cm.",
+        "precio": "$ 400",
+        "resena":"Almohadones rellenos de Vellon siliconado. Costura de alta calidad, pensado para darle uso intensivo. El producto posee la misma tela de ambos lados con cierre especial para evitar roces o molestias en los bordes",
+        "stock": "5"
+    },
+    {
+        "id": "11",
+        "category": "pillow",
+        "name": "Almohadon Ballon",
+        "image": "/img/almoglobo.jpeg",
+        "title": "Baloon kid",
+        "size": "40 x 40 cm.",
+        "precio": "$ 800",
+        "resena":"Almohadones rellenos de Vellon siliconado. Costura de alta calidad, pensado para darle uso intensivo. El producto posee la misma tela de ambos lados con cierre especial para evitar roces o molestias en los bordes",
+        "stock": "15"
+    },
+    {
+        "id": "12",
+        "category": "pillow",
+        "name": "Almohadon Leaf",
+        "image": "/img/almoleaf.jpeg",
+        "title": "Leaf Gold model.",
+        "size": "60 x 60 cm.",
+        "precio": "$ 1500",
+        "resena":"Almohadones rellenos de Vellon siliconado. Costura de alta calidad, pensado para darle uso intensivo. El producto posee la misma tela de ambos lados con cierre especial para evitar roces o molestias en los bordes",
+        "stock": "10"
+    },
+    {
+        "id": "13",
+        "category": "bag",
+        "name": "Bag Laundry",
+        "image": "/img/bolso1.jpeg",
+        "title": "Laundry Service",
+        "size": "80 x 60 cm.",
+        "precio": "$ 1400",
+        "resena":"Bolso separador de ropa con estampa, tiras reforzadas y confeccion de alta calidad, dandole diferentes usos tales como separar la ropa sucia, llevar tu ropa al lavadero, no ocupa lugar en el piso ya que podes colgarlo.",
+        "stock": "3"
+    },
+    {
+        "id": "14",
+        "category": "bag",
+        "name": "Red Bag",
+        "image": "/img/bolso2.jpeg",
+        "title": "Red Bag: stroke option.",
+        "size": "80 x 60 cm.",
+        "precio": "$ 1600",
+        "resena":"Bolso separador de ropa con estampa, tiras reforzadas y confeccion de alta calidad, dandole diferentes usos tales como separar la ropa sucia, llevar tu ropa al lavadero, no ocupa lugar en el piso ya que podes colgarlo.",
+        "stock": "2"
+    },
+    {
+        "id": "15",
+        "category": "bag",
+        "name": "Bag: Rock",
+        "image": "/img/bolso3.jpeg",
+        "title": "Model: Rock And Toys.",
+        "size": "80 x 60 cm.",
+        "precio": "$ 1000",
+        "resena":"Bolso separador de ropa con estampa, tiras reforzadas y confeccion de alta calidad, dandole diferentes usos tales como separar la ropa sucia, llevar tu ropa al lavadero, no ocupa lugar en el piso ya que podes colgarlo.",
+        "stock": "4"
+    },
+    {
+        "id": "16",
+        "category": "bag",
+        "name": "Gray Bag",
+        "image": "/img/bolso4.jpeg",
+        "title": "Gray Bag: double stroke option.",
+        "size": "80 x 60 cm.",
+        "precio": "$ 1300",
+        "resena":"Bolso separador de ropa con estampa, tiras reforzadas y confeccion de alta calidad, dandole diferentes usos tales como separar la ropa sucia, llevar tu ropa al lavadero, no ocupa lugar en el piso ya que podes colgarlo.",
+        "stock": "6"
+    }
+]
